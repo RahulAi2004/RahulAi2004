@@ -386,3 +386,5 @@ I'm always open to interesting conversations, collaborations, and opportunities 
 <sub>⭐ <em>Last updated: June 2026</em> ⭐</sub>
 
 </div>
+
+<!-- profile refresh -->
