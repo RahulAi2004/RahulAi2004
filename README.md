@@ -193,7 +193,7 @@ Selected for an intensive 3-month diploma in **Deep Learning & AI Communication*
   </a>
 </div>
 
----
+--- 
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Tech Arsenal
 
